@@ -1,0 +1,20 @@
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\bin\Debug\Gestion de libros.exe.config
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\bin\Debug\Gestion de libros.exe
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\bin\Debug\Gestion de libros.pdb
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.csprojAssemblyReference.cache
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion_de_libros.Form1.resources
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion_de_libros.Properties.Resources.resources
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.csproj.GenerateResource.cache
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.csproj.CoreCompileInputs.cache
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.exe
+C:\Users\Antares\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.pdb
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\bin\Debug\Gestion de libros.exe.config
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\bin\Debug\Gestion de libros.exe
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\bin\Debug\Gestion de libros.pdb
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.csprojAssemblyReference.cache
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion_de_libros.Form1.resources
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion_de_libros.Properties.Resources.resources
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.csproj.GenerateResource.cache
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.csproj.CoreCompileInputs.cache
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.exe
+C:\Users\Analia\source\repos\TP6CerrudoAnalia\Gestion de libros\obj\Debug\Gestion de libros.pdb
