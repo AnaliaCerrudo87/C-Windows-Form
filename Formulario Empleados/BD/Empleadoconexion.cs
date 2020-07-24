@@ -15,7 +15,9 @@ namespace BD
             SqlCommand comando = new SqlCommand();
             SqlDataReader lector;
 
-            conexion.ConnectionString = "Data Source=DESKTOP-VPLHTJ8;Initial Catalog=EMPLEADOS_DB;Integrated Security=True";
+            //En Data Source colocar la dirección de su servidor Local
+            
+            conexion.ConnectionString = "Data Source="";Initial Catalog=EMPLEADOS_DB;Integrated Security=True";
             comando.CommandType = System.Data.CommandType.Text;
             comando.CommandText = "Select * from Empleado ";
             comando.Connection = conexion;
@@ -43,7 +45,9 @@ namespace BD
             SqlConnection conexion = new SqlConnection();
             SqlCommand comando = new SqlCommand();
 
-            conexion.ConnectionString = "Data Source=DESKTOP-VPLHTJ8;Initial Catalog=EMPLEADOS_DB;Integrated Security=True";
+             //En Data Source colocar la dirección de su servidor Local
+            
+            conexion.ConnectionString = "Data Source="";Initial Catalog=EMPLEADOS_DB;Integrated Security=True";
             comando.CommandType = System.Data.CommandType.Text;
             comando.CommandText = "insert into Empleado values (@NombreCompleto,@DNI,@Edad,@Casado,@Salario)";
             comando.Connection = conexion;
