@@ -1,0 +1,10 @@
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\bin\Debug\Tipos de Triangulos.exe.config
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\bin\Debug\Tipos de Triangulos.exe
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\bin\Debug\Tipos de Triangulos.pdb
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos de Triangulos.csprojAssemblyReference.cache
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos_de_Triangulos.Form1.resources
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos_de_Triangulos.Properties.Resources.resources
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos de Triangulos.csproj.GenerateResource.cache
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos de Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos de Triangulos.exe
+C:\Users\Analia\source\repos\Tipos de Triangulos\Tipos de Triangulos\obj\Debug\Tipos de Triangulos.pdb
