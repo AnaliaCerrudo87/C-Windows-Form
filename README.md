@@ -20,3 +20,10 @@ Se ingresan los datos de los libros y se agregan a una lista, luego se muestran 
 Se utilizan condicionales, listas y conversión de variables, se implementa un control de errores por medio de Try y Catch para el valor de ingreso de páginas, 
 si el usuario ingresa un valor que no sea numérico lo alerta por medio de un MessageBox. 
 Los elementos de WindowsForms utilizados son: Label, TextBox, Button, CheckBox, ComboBox, ListBox.
+
+Formulario Empleados:
+A partir de la base de datos dada (Empleados.sql), se crea una aplicación que realiza una conexión con SQL Server para poder leer y persistir información de empleados.
+Se crean 2 clases, una correspondiente al empleado y otra para realizar la conexión con el servidor, se crean además sentencias SQL para el agreado del empleado
+a la base de datos.
+Los elementos de WindowsForms utilizados son: Label, TextBox, Button, CheckBox,DataGridView.
+
