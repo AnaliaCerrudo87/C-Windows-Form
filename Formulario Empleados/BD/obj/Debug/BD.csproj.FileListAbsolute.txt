@@ -1,0 +1,10 @@
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\bin\Debug\BD.exe.config
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\bin\Debug\BD.exe
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\bin\Debug\BD.pdb
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.csprojAssemblyReference.cache
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.Form1.resources
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.exe
+C:\Users\Analia\source\repos\TP7CerrudoAnalia\BD\obj\Debug\BD.pdb
