@@ -1,0 +1,10 @@
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\bin\Debug\Distancia entre 2 Puntos.exe.config
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\bin\Debug\Distancia entre 2 Puntos.exe
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\bin\Debug\Distancia entre 2 Puntos.pdb
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia entre 2 Puntos.csprojAssemblyReference.cache
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia_entre_2_Puntos.Form1.resources
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia_entre_2_Puntos.Properties.Resources.resources
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia entre 2 Puntos.csproj.GenerateResource.cache
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia entre 2 Puntos.csproj.CoreCompileInputs.cache
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia entre 2 Puntos.exe
+C:\Users\Analia\source\repos\Distancia entre 2 Puntos\Distancia entre 2 Puntos\obj\Debug\Distancia entre 2 Puntos.pdb
