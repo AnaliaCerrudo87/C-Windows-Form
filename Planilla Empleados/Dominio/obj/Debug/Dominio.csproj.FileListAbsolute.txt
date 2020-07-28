@@ -1,0 +1,6 @@
+C:\Users\Analia\source\repos\TPFINALCerrudoAnalia\Dominio\bin\Debug\Dominio.dll
+C:\Users\Analia\source\repos\TPFINALCerrudoAnalia\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Analia\source\repos\TPFINALCerrudoAnalia\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Analia\source\repos\TPFINALCerrudoAnalia\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Analia\source\repos\TPFINALCerrudoAnalia\Dominio\obj\Debug\Dominio.dll
+C:\Users\Analia\source\repos\TPFINALCerrudoAnalia\Dominio\obj\Debug\Dominio.pdb
