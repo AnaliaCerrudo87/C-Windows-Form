@@ -22,8 +22,17 @@ si el usuario ingresa un valor que no sea numérico lo alerta por medio de un Me
 Los elementos de WindowsForms utilizados son: Label, TextBox, Button, CheckBox, ComboBox, ListBox.
 
 Formulario Empleados:
+
 A partir de la base de datos dada (Empleados.sql), se crea una aplicación que realiza una conexión con SQL Server para poder leer y persistir información de empleados.
 Se crean 2 clases, una correspondiente al empleado y otra para realizar la conexión con el servidor, se crean además sentencias SQL para el agreado del empleado
+a la base de datos.
+Los elementos de WindowsForms utilizados son: Label, TextBox, Button, CheckBox,DataGridView.
+
+Planilla Empleados:
+
+A partir de la base de datos dada (Empleados.sql), se crea una aplicación que realiza una conexión con SQL Server para poder leer y persistir información de empleados.
+Se utiliza una implementación del modelo de tres capas para aplicaciones MVC (Negocio,Dominio y EmpeladosApp).
+Se crean 2 clases, una correspondiente al empleado y otra para realizar la conexión con el servidor, se crean además sentencias SQL para el agreado, modificación y eliminación del empleado.
 a la base de datos.
 Los elementos de WindowsForms utilizados son: Label, TextBox, Button, CheckBox,DataGridView.
 
